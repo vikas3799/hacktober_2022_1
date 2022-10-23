@@ -6,6 +6,8 @@ p.close()
 
 
 #great
+print("abcd")
+print("stack")
 
 
 '''
